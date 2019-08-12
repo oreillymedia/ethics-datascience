@@ -1,0 +1,3 @@
+The repo for Ethics and Data Science lives at https://resources.oreilly.com/examples/0636920203964/
+
+Sorry for the delay in getting this up.
